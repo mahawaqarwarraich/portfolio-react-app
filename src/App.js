@@ -7,7 +7,7 @@ function App() {
     <div className="App">
      <header>
     <div>
-        <h1>Maha Waqar</h1>
+        <h1>Maha Waqar Warraich</h1>
         <p>I am a self-driven and passionate web developer currently enrolled in the 5th semester of my Bachelor's degree in Computer Science.</p>
     </div>
     <div>
