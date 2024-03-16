@@ -11,7 +11,7 @@ function App() {
         <p>I am a self-driven and passionate web developer currently enrolled in the 5th semester of my Bachelor's degree in Computer Science.</p>
     </div>
     <div>
-        <img src={girlImage} alt="Profile Photo" width="100" height="100"/>
+        <img src="/images/girl.PNG" alt="Profile Photo" width="100" height="100"/>
     </div>
 </header>
 
